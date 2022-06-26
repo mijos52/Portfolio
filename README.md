@@ -19,7 +19,7 @@ Uses requests library for http requests and beautifulSoup for indexing pagees
 
 link : https://github.com/mijos52/search_engine
 
-[image](https://raw.githubusercontent.com/mijos52/Portfolio/main/Screenshot%20(8).png "image")
+![projectimage](https://raw.githubusercontent.com/mijos52/Portfolio/main/Screenshot%20(8).png)
 
 ### 3.Tradingview Selinium
 
