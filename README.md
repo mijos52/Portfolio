@@ -1,6 +1,6 @@
-##Projects
+## Projects
 
-###tocknote api scanner
+### 1.stocknote api scanner
 
 Get Stock data , quotes , trade data , automate trading with stock note api 
 
@@ -9,7 +9,7 @@ streaming
 
 link : https://github.com/mijos52/stocknote_api_scanner
 
-###Search Engine 
+### 2.Search Engine 
 
 Simple search crawler that would index all the links in a given list of urls or
 user input url. Searches for links inside a site and assocaites it with a metadata
@@ -21,7 +21,7 @@ link : https://github.com/mijos52/search_engine
 
 ![image](https://github.com/mijos52/Portfolio/blob/main/Screenshot%20(8).png)
 
-###Tradingview Selinium
+### 3.Tradingview Selinium
 
 Get 500 candlestick bars from tradingview for any Indian or Global listed tickers
 Tradingview uses websockets for data. Data are requested using websocket messages
@@ -33,7 +33,7 @@ get data.
 
 link : https://github.com/mijos52/selinum-tradingview
 
-###NSE Scraper Using Sheets Api
+### 4.NSE Scraper Using Sheets Api
 
 Gets stock data from econimictimes website. Data is sorted using python . Econmictimes
 api is used to send and receive requests . Query parameters can be customized 
@@ -42,7 +42,7 @@ data is then uploaded to google sheets using google sheets API .
 
 link : https://github.com/mijos52/nse_scraper
 
-###Kite Historical Data , Stock Screener and Stock Backtester
+### 5.Kite Historical Data , Stock Screener and Stock Backtester
 
 Full historical data for all symbols in all segments Futures , Options , Currency , Indices , ETF , Commodity . Uses Kite Zerodha API for data request
 Large data can be requested . Data is requested in steps and processed using pandas and numpy.
